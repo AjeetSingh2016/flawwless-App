@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "2972207620",
+    "project_id": "flawwless-278bc",
+    "storage_bucket": "flawwless-278bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2972207620:android:c05fbfc7d05c95419bc351",
+        "android_client_info": {
+          "package_name": "com.flawwless.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2972207620-160cvri264e8c3nov0poqav9d1bsd6kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flawwless.app",
+            "certificate_hash": "802097977973651badc57f9fdc66dea63cce67a5"
+          }
+        },
+        {
+          "client_id": "2972207620-52u5a2s935c28rglqnolcgahrggsr0o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flawwless.app",
+            "certificate_hash": "74c715b1f678270c7af6985758eae22e114152dd"
+          }
+        },
+        {
+          "client_id": "2972207620-ul3m4ub2lu47j16680iajp0384o4v4tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flawwless.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "2972207620-vtgvi0khet4vja7ii6ss95sjo8kqps82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUXWc3deQCY1EbsaILBN1XQ_10niM_uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2972207620-vtgvi0khet4vja7ii6ss95sjo8kqps82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
